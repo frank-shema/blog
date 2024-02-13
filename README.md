@@ -33,17 +33,8 @@ Before you begin, ensure you have met the following requirements:
 
 To run **Wren** locally, run this command on your git bash:
 
-Linux and macOS:
 
-```bash
-sudo git clone https://github.com/codewithsadee/wren.git
-```
 
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/wren.git
-```
 
 ### Contact
 
